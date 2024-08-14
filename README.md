@@ -15,7 +15,7 @@ dotnet add package MonoGame.Extended --version 4.0.0
 ```
 
 ### Using the Content Pipeline Extensions
-To use the content pipeline extension, please refer to the [Setup MGCB Edtior](https://www.monogameextended.net/docs/getting-started/installation-monogame/#optional-setup-mgcb-editor) documentation.
+To use the content pipeline extension, please refer to the [Setup MGCB Editor](https://www.monogameextended.net/docs/getting-started/installation-monogame/#optional-setup-mgcb-editor) documentation.
 
 ## Where to next?
 
